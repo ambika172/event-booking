@@ -1,4 +1,4 @@
-# Smart Event Management Platform — Booking Module (Day 3)
+# Smart Event Management Platform 
 
 A Flutter mini-module that lets a user browse events, book tickets, and
 manage their bookings — all persisted locally on the device using
